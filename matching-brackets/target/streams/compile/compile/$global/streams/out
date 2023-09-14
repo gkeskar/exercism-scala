@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/matching-brackets/src/main/scala/MatchingBrackets.scala:16:7: '}' expected but 'case' found.[0m
+[0m[[0m[31merror[0m] [0m[0m      case Some(closingBracket) =>[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/matching-brackets/src/main/scala/MatchingBrackets.scala:47:7: '}' expected but 'case' found.[0m
+[0m[[0m[31merror[0m] [0m[0m      case None => false[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/matching-brackets/src/main/scala/MatchingBrackets.scala:50:1: eof expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

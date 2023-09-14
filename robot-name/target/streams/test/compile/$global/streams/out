@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-name/src/test/scala/RobotNameTest.scala:10:17: variable name in class Robot cannot be accessed in Robot[0m
+[0m[[0m[31merror[0m] [0m[0m    new Robot().name should fullyMatch regex nameRegex[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-name/src/test/scala/RobotNameTest.scala:15:22: variable name in class Robot cannot be accessed in Robot[0m
+[0m[[0m[31merror[0m] [0m[0m    val name = robot.name[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-name/src/test/scala/RobotNameTest.scala:16:11: variable name in class Robot cannot be accessed in Robot[0m
+[0m[[0m[31merror[0m] [0m[0m    robot.name should be (name)[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-name/src/test/scala/RobotNameTest.scala:20:17: variable name in class Robot cannot be accessed in Robot[0m
+[0m[[0m[31merror[0m] [0m[0m    new Robot().name should not be new Robot().name[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-name/src/test/scala/RobotNameTest.scala:20:48: variable name in class Robot cannot be accessed in Robot[0m
+[0m[[0m[31merror[0m] [0m[0m    new Robot().name should not be new Robot().name[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-name/src/test/scala/RobotNameTest.scala:25:22: variable name in class Robot cannot be accessed in Robot[0m
+[0m[[0m[31merror[0m] [0m[0m    val name = robot.name[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-name/src/test/scala/RobotNameTest.scala:27:23: variable name in class Robot cannot be accessed in Robot[0m
+[0m[[0m[31merror[0m] [0m[0m    val name2 = robot.name[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-name/src/test/scala/RobotNameTest.scala:39:30: variable name in class Robot cannot be accessed in Robot[0m
+[0m[[0m[31merror[0m] [0m[0m      val name = new Robot().name[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

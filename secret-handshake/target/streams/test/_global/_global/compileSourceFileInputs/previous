@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala","34773cf0c5424550d1c58c134b30a361257169c8"]],"lastModifiedTimes":[]}}]

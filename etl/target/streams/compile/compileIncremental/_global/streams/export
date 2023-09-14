@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/gkeskar/.sbt/boot/scala-2.12.8/lib/scala-library.jar -classpath /Users/gkeskar/Exercism/scala/etl/target/scala-2.12/classes /Users/gkeskar/Exercism/scala/etl/src/main/scala/Etl.scala

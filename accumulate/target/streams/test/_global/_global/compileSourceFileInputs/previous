@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/Users/gkeskar/Exercism/scala/accumulate/src/test/scala/AccumulateTest.scala","4f683f17c901c7ddc09da5ff381e04c2b20c0d4a"]],"lastModifiedTimes":[]}}]

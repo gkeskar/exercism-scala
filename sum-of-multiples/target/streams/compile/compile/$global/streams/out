@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/sum-of-multiples/src/main/scala/SumOfMultiples.scala:4:28: ')' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    ((1 until limit) filter.isMultiple(factors, _)).sum[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/sum-of-multiples/src/main/scala/SumOfMultiples.scala:4:51: ';' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    ((1 until limit) filter.isMultiple(factors, _)).sum[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

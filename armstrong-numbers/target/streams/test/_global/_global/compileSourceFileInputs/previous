@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/Users/gkeskar/Exercism/scala/armstrong-numbers/src/test/scala/ArmstrongNumbersTest.scala","68120339fa5469816f81535fcf7f9e71bdad18a4"]],"lastModifiedTimes":[]}}]

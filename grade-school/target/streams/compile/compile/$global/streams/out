@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/grade-school/src/main/scala/School.scala:8:32: not enough arguments for method updated: (key: Int, value: V1)scala.collection.immutable.Map[Int,V1].[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter value.[0m
+[0m[[0m[31merror[0m] [0m[0m    students = students.updated(g -> (students(g) :+ name))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

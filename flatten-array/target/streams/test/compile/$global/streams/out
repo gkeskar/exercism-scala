@@ -1,0 +1,43 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:12:38: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : List[Int][0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    FlattenArray.flatten(List(1, List(2, 3, 4, 5, 6, 7), 8)) should be([0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:20:35: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : List[Any][0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m                              List(List(2, 3), 8, 100, 4, List(List(List(50)))),[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:29:11: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : List[Any][0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m      List(2, List(List(3)), List(4, List(List(5))), 6, 7),[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:38:16: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : List[Any][0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m           List(List(2, 3), 8, List(List(100)), null, List(List(null))),[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:45:12: an expression of type Null is ineligible for implicit conversion[0m
+[0m[[0m[31merror[0m] [0m[0m      List(null,[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:47:12: an expression of type Null is ineligible for implicit conversion[0m
+[0m[[0m[31merror[0m] [0m[0m           null,[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:48:12: an expression of type Null is ineligible for implicit conversion[0m
+[0m[[0m[31merror[0m] [0m[0m           null,[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:50:12: an expression of type Null is ineligible for implicit conversion[0m
+[0m[[0m[31merror[0m] [0m[0m           null)) should be(List())[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:46:16: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : List[List[List[Null]]][0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m           List(List(List(null))),[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/test/scala/FlattenArrayTest.scala:49:16: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : List[List[Null]][0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m           List(List(null, null), null),[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m10 errors found[0m

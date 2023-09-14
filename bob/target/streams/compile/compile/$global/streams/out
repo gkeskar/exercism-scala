@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/bob/src/main/scala/Bob.scala:16:12: value statement is not a case class, nor does it have an unapply/unapplySeq member[0m
+[0m[[0m[31merror[0m] [0m[0m      case statement (isQuestion(statement)) => "Sure."[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/bob/src/main/scala/Bob.scala:16:23: not found: value isQuestion[0m
+[0m[[0m[31merror[0m] [0m[0m      case statement (isQuestion(statement)) => "Sure."[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

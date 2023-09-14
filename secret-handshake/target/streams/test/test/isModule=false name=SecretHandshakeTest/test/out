@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSecretHandshakeTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- wink for 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- double blink for 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- close your eyes for 100[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- jump for 1000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- combine two actions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- reverse two actions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- reversing one action gives the same action[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- reversing no actions still gives no actions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- all possible actions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- reverse all possible actions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- do nothing for zero[0m[0m

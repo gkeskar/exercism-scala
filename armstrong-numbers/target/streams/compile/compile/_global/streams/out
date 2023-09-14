@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/armstrong-numbers/src/main/scala/ArmstrongNumbers.scala:11:21: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: BigInt[0m
+[0m[[0m[31merror[0m] [0m[0m    numList.foldLeft(0.0)((r,c) => r  + Math.pow(c,numPower) )[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

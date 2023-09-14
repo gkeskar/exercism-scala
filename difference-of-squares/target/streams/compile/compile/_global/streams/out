@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/difference-of-squares/src/main/scala/DifferenceOfSquares.scala:3:63: ';' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  def squareOfSum(n: Int): Int = ((1 to n).sum) * (1 to n).sum))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

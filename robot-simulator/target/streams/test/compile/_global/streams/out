@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-simulator/src/test/scala/RobotSimulatorTest.scala:109:42: Robot does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    Robot(Bearing.North, (0, 0)).simulate("LAAARALA") should be([0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-simulator/src/test/scala/RobotSimulatorTest.scala:116:42: Robot does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    Robot(Bearing.East, (2, -7)).simulate("RRAAAAALA") should be([0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/robot-simulator/src/test/scala/RobotSimulatorTest.scala:123:42: Robot does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    Robot(Bearing.South, (8, 4)).simulate("LAAARRRALLLL") should be([0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

@@ -1,0 +1,34 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:7:33: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(1) should be (List("wink"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:11:33: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(2) should be (List("double blink"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:15:33: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(4) should be (List("close your eyes"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:19:33: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(8) should be (List("jump"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:23:33: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(3) should be (List("wink", "double blink"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:27:34: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(19) should be (List("double blink", "wink"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:31:34: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(24) should be (List("jump"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:35:34: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(16) should be (List())[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:39:34: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(15) should be (List("wink", "double blink", "close your eyes", "jump"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:43:34: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(31) should be (List("jump", "close your eyes", "double blink", "wink"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/secret-handshake/src/test/scala/SecretHandshakeTest.scala:47:33: value should is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    SecretHandshake.commands(0) should be (List())[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m11 errors found[0m

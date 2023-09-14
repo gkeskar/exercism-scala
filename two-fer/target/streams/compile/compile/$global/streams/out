@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/two-fer/src/main/scala/Twofer.scala:3:16: not found: value vname[0m
+[0m[[0m[31merror[0m] [0m[0m    s"One for $vname, one for me."[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

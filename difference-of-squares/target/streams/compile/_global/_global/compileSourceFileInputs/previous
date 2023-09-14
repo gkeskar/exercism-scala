@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/Users/gkeskar/Exercism/scala/difference-of-squares/src/main/scala/DifferenceOfSquares.scala","a00d5847698b3a3a16aff4967955e1f1d22bbc27"]],"lastModifiedTimes":[]}}]

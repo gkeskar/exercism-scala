@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/gkeskar/Exercism/scala/flatten-array/src/main/scala/FlattenArray.scala:14:50: too many arguments (3) for method _flatten: (res: List[Any], rem: List[Any])List[Any][0m
+[0m[[0m[31merror[0m] [0m[0m      case (h:List[_])::tail => _flatten(res, h, tail)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
